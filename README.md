@@ -19,7 +19,7 @@
  </div>
   <hr>
   <div aling="center">
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandesThalita&layout=compact&langs_count=16&theme=dracula"/>  
+   
   </div>
   
 <!--
