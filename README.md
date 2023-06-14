@@ -16,7 +16,7 @@
  </div>
   <hr>
   <div aling="center">
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandesThalita&layout=compact)
+    `![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandesThalita&layout=compact)`
   </div>
   
 <!--
