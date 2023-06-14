@@ -16,7 +16,7 @@
  </div>
   <hr>
   <div aling="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandesThalita&layout=compact" alt="Linguagens mais utilizadas">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandesThalita&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" alt="Linguagens mais utilizadas">
   </div>
   
 <!--
