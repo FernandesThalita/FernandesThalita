@@ -25,7 +25,7 @@
      <img  align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />      
   </center>     
  </div>
- 
+ <br>
   <div aling="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandesThalita&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" alt="Linguagens mais utilizadas">
   </div>
