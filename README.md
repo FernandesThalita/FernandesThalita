@@ -12,7 +12,7 @@
   <img align="center"  height="65" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center"  height="65" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img  align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
- 
+   <hr>
 
    <center>
     <h2>Estudando: </h2>
@@ -23,7 +23,7 @@
   </center>
           
  </div>
-  <hr>
+ 
   <div aling="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandesThalita&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" alt="Linguagens mais utilizadas">
   </div>
