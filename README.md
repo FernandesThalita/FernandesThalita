@@ -1,4 +1,4 @@
-## Olá, eu sou a Thalita Fernandes, estudante técnica de Desenvolvimento de Sistemas!
+## Olá, eu sou a Thalita Fernandes, técnica em Desenvolvimento de Sistemas!
 <hr>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"  title="Javascript">
